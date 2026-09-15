@@ -1,0 +1,20 @@
+# Binarios y compilados
+*.exe
+*.o
+*.obj
+*.out
+*.app
+bin/
+build/
+*.dSYM/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs y volcados temporales
+*.log
+scratch/
